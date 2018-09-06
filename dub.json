@@ -1,0 +1,10 @@
+{
+	"name": "dcharwidth",
+  "targetType": "library",
+	"authors": [
+		"theoldmoon0602"
+	],
+	"description": "Provides functions to get fixed width of the dchar or string.",
+	"copyright": "Copyright © 2018, theoldmoon0602",
+	"license": "MIT"
+}

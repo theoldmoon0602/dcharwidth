@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dcharwidth.so
+dcharwidth.dylib
+dcharwidth.dll
+dcharwidth.a
+libdcharwidth.a
+dcharwidth.lib
+dcharwidth-test-*
+*.exe
+*.o
+*.obj
+*.lst
