@@ -1,7 +1,7 @@
 dcharwidth
 ============
 
-D language implemetation of (mattn/go-runewidth)[https://github.com/mattn/go-runewidth].
+D language implemetation of [mattn/go-runewidth](https://github.com/mattn/go-runewidth).
 
 Usage
 -----
